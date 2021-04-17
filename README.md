@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Notice:  This is my new account :)
+# Notice:  This is my new account :)
 
 - I'm currently working on Deathrun (init push will be in the next few weeks)
 - I'm listening to Spotify. (I saw that some people have a "currently listening" in there README, can anyone tell me how to do that?)
