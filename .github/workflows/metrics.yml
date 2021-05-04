@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlight/metrics@latest
+      - uses: mommde/mommde@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
