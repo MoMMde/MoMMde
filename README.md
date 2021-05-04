@@ -1,7 +1,9 @@
 <h1 align="center">
 Hello World 👋, I'm MoMMde
-And i Stole this from @NyCodeGHG
 </h1>
+<h2 align="center">
+And i Stole this from @NyCodeGHG
+</h2>
 <h3 align="center">I currently 14 Years old</h3>
 
 ![GitHub metrics](https://github.com/MoMMde/MoMMde/blob/main/github-metrics.svg)
