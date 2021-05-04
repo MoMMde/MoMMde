@@ -1,6 +1,1 @@
-### Hi there 👋
-
-# Notice:  This is my new account :)
-
-- I'm currently forking some Random Projects
-- I'm listening to Spotify.
+![Metrics](https://github.com/MoMMde/github-metrics.svg)
