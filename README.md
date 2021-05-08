@@ -2,7 +2,7 @@
 Hello World 👋, I'm MoMMde
 </h1>
 <h2 align="center">
-And i Stole this from @NyCodeGHG
+And i stole this from @NyCodeGHG
 </h2>
 <h3 align="center">I currently 14 Years old</h3>
 
