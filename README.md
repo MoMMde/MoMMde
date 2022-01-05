@@ -12,6 +12,6 @@ Prolog   11 mins         ░░░░░░░░░░░░░░░░░░�
 
 
 #### About Me
-I'm **Moritz** and i am **15** years old. My work is mostly related to Docker, ![Kotlin](https://img.shields.io/badge/kotlin-23D3F5F7?style=for-the-badge&logo=kotlin&logoColor=red) and Gradle.
+I'm **Moritz** and i am **15** years old. My work is mostly related to Docker, ![Kotlin](https://img.shields.io/badge/kotlin-D3F5F7?style=for-the-badge&logo=kotlin&logoColor=red) and Gradle.
 
-My search query's are mostly written on ![Edge](https://img.shields.io/badge/Edge-23D3F5F7?style=for-the-badge&logo=Microsoft-edge&logoColor=red) with its Endpoint at ![Google](https://img.shields.io/badge/google-23D3F5F7?style=for-the-badge&logo=google&logoColor=red)
+My search query's are mostly written on ![Edge](https://img.shields.io/badge/Edge-D3F5F7?style=for-the-badge&logo=Microsoft-edge&logoColor=red) with its Endpoint at ![Google](https://img.shields.io/badge/google-D3F5F7?style=for-the-badge&logo=google&logoColor=red)
