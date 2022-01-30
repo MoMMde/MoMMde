@@ -4,11 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin     3 hrs 53 mins   ███████████████████████░░   91.43 % 
-Markdown   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-TOML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-INI        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
