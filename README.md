@@ -7,6 +7,8 @@
 I'm **Moritz** and i am **15** years old. I don't really know what to write about my self.  
  _Im shy_  
  _Mostly learning, don't really work on implementation_
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/650068192445857821)](https://discord.com/users/650068192445857821)
   
 </div>
   
