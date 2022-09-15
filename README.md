@@ -4,7 +4,7 @@
 
 
 ### About Me
-I'm **Moritz** and i am **15** years old. I don't really know what to write about my self.  
+I'm **Moritz** and i am **16** years old. I don't really know what to write about my self.  
  _Im shy_  
  _Mostly learning, don't really work on implementation_
 
