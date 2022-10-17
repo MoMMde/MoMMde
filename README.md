@@ -10,8 +10,6 @@ I'm **Moritz** and i am **16** years old. I don't really know what to write abou
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/650068192445857821)](https://discord.com/users/650068192445857821)
   
-</div>
-  
 ### PGP Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -68,3 +66,4 @@ Reoit08nqLLSEdDBS/5o9+lcef1WXeWI0KouibA1
 =dUjm
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+</div>
