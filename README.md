@@ -1,6 +1,6 @@
 <div align="center">  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monaco&color=%23345eeb&size=29&center=true&vCenter=true&width=900&height=135&lines=Welcome;I%27m+Moritz;I%27m+15;I%27m+from+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monaco&color=%23345eeb&size=29&center=true&vCenter=true&width=900&height=135&lines=Welcome;I%27m+Moritz;I%27m+16;I%27m+from+Germany)](https://git.io/typing-svg)
 
 
 ### About Me
