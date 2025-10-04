@@ -2,8 +2,6 @@
 Hey 
   
 ### About Me
-I'm **Moritz** and  **18** years old, I am not really working on implementation, more on learning and testing stuff.  
-I love to Code a lot of stuff but mostly I am interested in the topic Network and Communications
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/650068192445857821)](https://discord.com/users/650068192445857821)
+I'm **Moritz** and  **19** years old. I love to learn stuff about tech.  
+<3
 </div>
